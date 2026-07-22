@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Weather forecasting app with Open-Meteo integration, 7-day forecasts, and smart travel recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
